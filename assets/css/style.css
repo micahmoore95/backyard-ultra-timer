@@ -1,0 +1,8 @@
+:root {
+    --firstColor: #067e4c;
+};
+
+.nav {
+    background-color: #067e4c;
+    background-size: auto;    
+}
